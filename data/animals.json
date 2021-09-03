@@ -117,6 +117,26 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Bean",
+      "species": "Fruit Bat",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "goofy"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "Zack",
+      "species": "Sloth",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany",
+        "loving"
+      ],
+      "id": "13"
     }
   ]
 }
